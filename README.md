@@ -72,10 +72,6 @@ The application will be available at [http://localhost:8091](http://localhost:80
 - Admin and voter sessions are separated.
 - Passwords are currently stored in plain text (for demo purposes). **For production, implement password hashing.**
 
-## License
-
-This project is for educational/demo purposes.
-
 ## Contact
 
 For questions or support, please contact:  

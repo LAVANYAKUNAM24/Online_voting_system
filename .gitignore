@@ -33,3 +33,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+Online_voting_system/src/main/resources/application.properties
